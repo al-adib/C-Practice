@@ -9,17 +9,17 @@
 |Sr.no| Program name                | Types |
 | -   | -                           | -     |
 | 1. | Hello world                  | basic |
-| 2. | add two nos                  | basic |
+<!-- | 2. | add two nos                  | basic |
 | 3. | multiply two nos             | basic |
 | 4. | ascii character              | basic |
 | 5. | quotient and remainder       | basic |
 | 6. | input from user              | basic |
-
+ -->
 
 ## 📌 Tech Stack:
 <br><br>
-![c](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&logoColor=white)
-
+<!-- ![c](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&logoColor=white)
+ -->
 <br><br>
 
 <h2>📌 Contact Me:</h2>
