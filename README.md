@@ -40,6 +40,5 @@
  </a><br><br
 
 </div>
-<br>
 <div align="center">
 © 2022 Aaquib Ali </div>
