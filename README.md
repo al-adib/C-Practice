@@ -17,17 +17,27 @@
  -->
 
 ## 📌 Tech Stack:
-<br><br>
-<!-- ![c](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&logoColor=white)
- -->
-<br><br>
+<!-- <br><br> -->
+![c](https://img.shields.io/badge/%20-%23E34F26.svg?&style=for-the-badge&logo=c&logoColor=white)
+
+## Author
+
+[![Contributors](https://contrib.rocks/image?repo=devaaquib/devfreebooks)](https://github.com/devaaquib/devfreebooks/graphs/contributors)
+
 
 <h2>📌 Contact Me:</h2>
 <br><br>
 
 <div align="center">
 
-<a  href="hhttps://www.linkedin.com/in/aaquib-ali-39494b210/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.Twitter.com/in/aaquib-ali-39494b210/" alt="Twitter Follow">
+  <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://aaquibdev.medium.com/" alt="Blog">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aaquib-ali-39494b210/" alt="Instgram Follow">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+ </a><br><br
 
 </div>
 <br>
