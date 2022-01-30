@@ -37,8 +37,10 @@
 <a href="https://www.linkedin.com/in/aaquib-ali-39494b210/" alt="Instgram Follow">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
- </a><br><br
+ 
 
 </div>
+
+<br><br>
 <div align="center">
 © 2022 Aaquib Ali </div>
